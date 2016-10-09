@@ -1,5 +1,5 @@
-# MidKnight Magic Too Team 9947
-This is the official repository for the 2016-17 season Velocity Vortex.
+﻿# MidKnight Magic Too Team 9947
+(best thing in the universe lol :-) This is Pranav's copy of the official repository for the 2016-17 season Velocity Vortex.
 
 # Vuforia
 The key for this team is:
